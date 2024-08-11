@@ -88,5 +88,3 @@ Contributions to this project are welcome. If you have suggestions or improvemen
 7. **License:** Information about the license under which the project is distributed.
 8. **Acknowledgements:** Credits and links to resources used in the project.
 9. **Contact:** Provides a way for users to reach out for questions or feedback.
-
-Feel free to adjust the content to better fit your project's specifics and your preferences.
